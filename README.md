@@ -19,7 +19,6 @@
 - 💼 Atualmente estou trabalhando em:       **💻 Desenvolvendo uma nova plataforma de e-commerce usando React e Node.js**
 - 🌱 Atualmente estou aprendendo:           **📚 Explorando Zustand**
 - 💬 Pergunte-me sobre:                     **💡 JavaScript, React, Node.js, MongoDB e APIs RESTful**
-- ⚡ Curiosidade:                           **🎢 Já debuguei um problema enquanto estava em uma montanha-russa!**
 
  **<h3 align="left">Skills</h3>**
 
