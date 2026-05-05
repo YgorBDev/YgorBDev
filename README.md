@@ -16,8 +16,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 Atualmente estou trabalhando em:       **💻 Desenvolvendo uma nova plataforma de e-commerce usando React e Node.js**
-- 🌱 Atualmente estou aprendendo:           **📚 Explorando Zustand**
+- 💼 Atualmente estou trabalhando em:       **💻 Desenvolvendo uma plataforma de educação financeira gamificada.**
+- 🌱 Atualmente estou aprendendo:           **📚 Explorando o mundo da web3**
 - 💬 Pergunte-me sobre:                     **💡 JavaScript, React, Node.js, MongoDB e APIs RESTful**
 
  **<h3 align="left">Skills</h3>**
